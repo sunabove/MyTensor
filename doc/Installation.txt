@@ -1,0 +1,4 @@
+conda install scipy
+conda install pandas
+conda install matploblib
+conda install scikit-learn

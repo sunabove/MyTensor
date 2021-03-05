@@ -1,0 +1,2 @@
+MNIST Data
+https://www.kaggle.com/oddrationale/mnist-in-csv
